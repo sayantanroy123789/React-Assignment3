@@ -3,3 +3,4 @@
 2. Then make two components inside src folder.
 3. one components has my details like name proffession and other components has my skill and hobies.
 5. Then I public it on vercel.
+6. hosted link https://reactassignment3.vercel.app/
